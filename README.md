@@ -8,3 +8,5 @@ My client, Mercari, is one of Japan’s biggest online shopping sites. In order 
 -Offer a price suggestion based on products’ detail.
 
 -Modify the product price before selling on the Mercari marketplace.
+
+Documentation:https://docs.google.com/document/d/1-pKQRM3CB9LFpFp_QvSRTRNxV2uh5eis3X9ubLWM66c/edit?usp=sharing
