@@ -13,4 +13,4 @@ Documentation: https://docs.google.com/document/d/1-pKQRM3CB9LFpFp_QvSRTRNxV2uh5
 
 powerpoint: Mercari price prediction ppt.pdf
 
-code: datastory.ipynb,machine learning.ipynb,naivebayes.ipynb
+code: datastory.ipynb, machine learning.ipynb, naivebayes.ipynb
